@@ -1,6 +1,6 @@
 name: Angeli Tatum
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.88635
 typography_spectrum: 0.59947
 title: Angelitatum
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffe1ae'
-    - '#1a1516'
-    - '#caab98'
-    - '#9d7244'
-    - '#69472b'
-  brandStrength: 0.5625
-  lightness: 0.75
-  saturation: 0.625
-  rhythmicContrast: 0.75
+    - '#093687'
+    - '#843d81'
+    - '#ed5659'
+    - '#feae86'
+    - '#fef748'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
